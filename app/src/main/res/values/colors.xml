@@ -1,0 +1,10 @@
+<resources>
+    <color name="bp_red">#D32F2F</color>
+    <color name="bp_green">#2E7D32</color>
+    <color name="bp_gray">#9E9E9E</color>
+    <color name="bp_bg">#F7F7F8</color>
+    <color name="bp_text">#1C1B1F</color>
+    <color name="bp_surface">#FFFFFF</color>
+    <color name="bp_primary">#0F766E</color>
+    <color name="bp_border">#D7DCE1</color>
+</resources>

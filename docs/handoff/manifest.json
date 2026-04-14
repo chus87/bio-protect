@@ -1,0 +1,19 @@
+{
+  "project_name_visible": "BioProtect",
+  "package_name": "com.bioprotect.fingerprint",
+  "repository_name_suggested": "bioprotect-fingerprint",
+  "device": {
+    "model": "POCO F6 Pro",
+    "os": "Xiaomi HyperOS 2.0.210.0.VNKEUXM",
+    "android": "15"
+  },
+  "reference_apks_included": [
+    "DeviceLockController.apk",
+    "com.qualcomm.qti.remoteSimlockAuth.apk",
+    "com.google.android.overlay.devicelockcontroller.apk",
+    "Launcher POCO.apk",
+    "android.miui.poco.launcher.res.apk",
+    "WTMP.apk"
+  ],
+  "note": "Este ZIP es un handoff de requisitos y contexto, no el proyecto Android final."
+}

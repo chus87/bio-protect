@@ -1,0 +1,20 @@
+Quiero que primero leas los documentos de este ZIP y los uses como fuente principal de contexto.
+
+Contexto:
+- Este ZIP es un handoff completo de una conversación previa.
+- El objetivo es construir una app Android llamada BioProtect.
+- El dispositivo objetivo principal es un POCO F6 Pro con HyperOS 2.0.210.0.VNKEUXM y Android 15.
+- Debes basarte en la especificación y decisiones ya cerradas dentro de los .md de este ZIP.
+- No quiero que vuelvas a hacerme preguntas ya resueltas en esos archivos salvo que sea imprescindible.
+
+Tarea esperada después de leer el ZIP:
+- preparar el proyecto Android completo
+- listo para subir a GitHub
+- con GitHub Actions para compilar una APK debug
+- y empaquetarlo todo en un ZIP descargable
+
+Condición importante:
+- la app debe construirse desde cero
+- las APKs aportadas en el ZIP son solo referencias secundarias para estudio técnico, no una base para reutilizar código
+
+Antes de construir, resume en pocas líneas lo que has entendido del ZIP y marca solo las dudas realmente nuevas, si las hubiera.
